@@ -21,9 +21,9 @@
     ·
     <a href="________">Video Presentation</a>
     ·
-    <a href="_______ ">Presentation Slide</a>
+    <a href="https://www.canva.com/design/DAF3biXJ01Y/mWHYrhcYpFlVNsxaXjXJeA/edit">Presentation Slide</a>
     ·
-    <a href="https://docs.google.com/presentation/d/1HcXvlv8bCKEsgguLBg249njaZ78XvOIH4wWZuKw-WS0/edit#slide=id.p" target="_blank">Go To Market Slide</a>
+    <a href="______" target="_blank">Go To Market Slide</a>
     <br />
     © CH2 - PS430 Bangkit Capstone Team
   </p>
