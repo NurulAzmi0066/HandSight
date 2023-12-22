@@ -80,7 +80,7 @@ You can find our relevant documentation at the following link:
 - [Machine Learning Documentation](-----l)
 
 ## Cloud Computing 
-- [Cloud Computing Documentation](------)
+- [Cloud Computing Documentation](https://github.com/NurulAzmi0066/HandSight-CC)
 
 ## Mobile Development 
 - [Mobile Development Documentation](https://github.com/tytytyaa/HandSight-MD)
